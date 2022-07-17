@@ -41,17 +41,13 @@ df means dataframe i.e all that has been listed to generate from twitter will be
  
  #### It's time to use MicrosoftPowerBi
  Open Powerbi Desktop
- In Home tab, click on get data then select from txt/csv
+ In Home tab, click on get data then select from text/csv
  
 ![2022-07-17 (9)](https://user-images.githubusercontent.com/107118603/179419630-8d54c220-4d7c-4505-94cd-b9306b5785e7.png)
 
 
 ####
 Locate the csv file on your system
-![2022-07-17 (10)](https://user-images.githubusercontent.com/107118603/179419646-036f0deb-715c-4c22-8f5f-da1d09f4a158.png)
-
-
-####
 Click to open it
 ![2022-07-17 (11)](https://user-images.githubusercontent.com/107118603/179419676-dc1ef01b-9948-4a89-bb3d-f95b73332714.png)
 
@@ -76,7 +72,7 @@ Then go to view, check the box beside Column distribution, column profile and co
 Uncheck the boxes for distribution, quality and profile.
 after that;
 go to home
-select close and drop down and click on close and apply.
+select close and apply drop down and click on close and apply.
 ![2022-07-17 (16)](https://user-images.githubusercontent.com/107118603/179420246-98949eab-d285-4173-8356-18ae96e56b2c.png)
 
 
@@ -108,12 +104,12 @@ The data is loading...
 
  
  ###
-The 3rd page display other tools mentioned by users, and a table that display the entire actions performed by users. 
+This page display other tools mentioned by users, and a table that display the entire actions performed by users. 
 ![2022-07-17 (6)](https://user-images.githubusercontent.com/107118603/179420577-1b5d8d77-01e3-4b26-907f-9c56d99d846f.png)
 
 
 ### Here is the dashboard
-This page give insights to problem objectives.
+This page gives insights to problem objectives.
 
 ![2022-07-17 (7)](https://user-images.githubusercontent.com/107118603/179420672-2416c080-2dac-41a7-8a0a-1c2e99031ee5.png)
 
