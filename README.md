@@ -18,7 +18,7 @@ The hashtags scripts was posted to the learning platform (discord channel) by th
 Two data set was given to us,
 - 30DLTweets.csv : This is a data that has already been scraped in to csv file.
 - 30DLTweetsScrape.ipynb : This is a raw dataset that needs to be generated using python, jupiter anaconda or visual studio.
-So, I downloaded the DeNormalized dataset to see how the data was gotten from twitter.
+So, I downloaded the one in ipynb format to see how the data was scraped from twitter.
 Firstly, I opened the jupiter anaconda on my system
 ![2022-07-17](https://user-images.githubusercontent.com/107118603/179413512-506271dc-1689-40c0-9860-8a504ba2ff02.png)
 
