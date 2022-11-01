@@ -5,7 +5,13 @@
 
 
 ## ProblemObjective
-What is the total tweet made by people on twitter? what is the total number of  users? what is the percentage of devices used? what is the total tweets made by day of the month? what is the total tweets made by weekday and which of the weekday has the most tweets? Who uses the hashtag most?
+- What is the total tweet made by people on twitter?
+- What is the total number of  users?
+- What is the percentage of devices used? 
+- What is the total tweets made by day of the month?
+- What is the total tweets made by weekday?
+- Which of the weekday has the most tweets?
+- Who uses the hashtag most?
 
 
 
@@ -118,6 +124,6 @@ This page gives insights to problem objectives.
 It turns out that
 - The organiser (Oyinbooke) tweeted most, followed by @Richie4love.
 - People tweeted most in june, and wednesday is the most tweeted day about the two hashtags.
-- most people who undergo this training used android most
+- most people who undergo this training used android.
 - Tools mentioned while using the hashtags are github, excel, powerbi  and Azure.
 
